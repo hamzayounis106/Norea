@@ -15,7 +15,7 @@ let tl = gsap.timeline({
     pin: true,
     start: "top top",
     end: "+=700%",
-    markers: true,
+    // markers: true,
     scrub: 1,
   },
 });
