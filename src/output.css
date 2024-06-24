@@ -2149,6 +2149,10 @@ video {
   font-size: 3rem;
 }
 
+.\!text-\[3rem\] {
+  font-size: 3rem !important;
+}
+
 .font-bold {
   font-weight: 700;
 }
